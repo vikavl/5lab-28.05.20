@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<computers>
+  <computer name="comp1">
+    <price>555</price>
+    <power>10</power>
+    <client name="client1">
+      <age>25</age>
+    </client>
+  </computer>
+  <computer name="comp2">
+    <price>666</price>
+    <power>10</power>
+    <client name="client2">
+      <age>20</age>
+    </client>
+  </computer>
+  <computer name="comp3">
+    <price>777</price>
+    <power>12</power>
+    <client name="client3">
+      <age>12</age>
+    </client>
+  </computer>
+</computers>
